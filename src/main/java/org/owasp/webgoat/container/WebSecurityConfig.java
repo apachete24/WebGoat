@@ -29,7 +29,6 @@
  * @since December 12, 2015
  */
 package org.owasp.webgoat.container;
-
 import lombok.AllArgsConstructor;
 import org.owasp.webgoat.container.users.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
